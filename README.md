@@ -14,7 +14,7 @@ I'm passionate about performance engineering at every layer, from JVM internals 
 - **OS-level performance optimisation** — CPU pinning, IRQ affinity, NUMA awareness, kernel bypass networking
 - **High-frequency trading systems** — order book / matching engine design, FIX protocol, market microstructure
  
-📫 Open to conversations on low-latency systems, payments technology, trading infrastructure, crypto, and performance engineering.
+📫 Open to conversations on low-latency systems, payments and trading infrastructure, and performance engineering.
  
 <!--
 **brownemma04/brownemma04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
