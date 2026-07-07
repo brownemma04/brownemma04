@@ -1,6 +1,6 @@
 ## Hi, I'm Emma 👋
  
-Low-latency software engineer with a background in devops, software engineering and AI research working in financial technology. Currently building **real-time payments infrastructure** in Java and Erlang at **Mastercard**, with a focus on **low-latency, high-throughput** processing. 
+Low-latency software engineer with a background in devops, software engineering and AI research working in financial technology. Currently building **real-time payments infrastructure** in Java and Erlang, with a focus on **low-latency, high-throughput** processing. 
  
 I'm passionate about performance engineering at every layer, from JVM internals down to OS scheduling and hardware. I am building towards developing my career in **low-latency financial systems**.
  
